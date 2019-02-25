@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebJsNative</string>
+    <string name="fl_chooser">File Chooser</string>
+</resources>
